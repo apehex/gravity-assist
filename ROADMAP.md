@@ -12,10 +12,15 @@
 
 ## Project Milestones
 
-- [ ] Release Version 0.1.0 (Pre-Alpha)
-- [ ] Release Version 0.x.0 (Alpha)
-- [ ] Release Version 0.x.0 (Beta)
-- [ ] Release Version 1.0.0 (Stable)
+- [ ] Release Version 0.1.0 (Pre-Alpha): Decorator funtion
+- [ ] Release Version 0.1.0 (Pre-Alpha): Date trigger
+- [ ] Release Version 0.1.0 (Pre-Alpha): Version trigger
+- [ ] Release Version 0.1.0 (Pre-Alpha): Github user as trigger
+- [ ] Release Version 0.1.0 (Pre-Alpha): Any (* -> bool) callable as trigger
+- [ ] Release Version 0.1.0 (Pre-Alpha): Identify the corresponding commit, and deduce the age of the todo
+- [ ] Release Version 0.x.0 (Alpha): Different behavior according to the installation
+- [ ] Release Version 0.x.0 (Beta): Identify and compile all the todos in the code into a 
+- [ ] Release Version 1.0.0 (Stable): Merge into pylint / sphinx.ext.todo ??
 - [ ] Release Version x.0.0 (Mature)
 
 [planning-status-shield]: https://img.shields.io/badge/status-planning-lightgrey.svg?longCache=true
